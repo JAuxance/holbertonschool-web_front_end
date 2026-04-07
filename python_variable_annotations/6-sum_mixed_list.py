@@ -1,4 +1,4 @@
-#!usr/bin.python3
+#!usr/bin/python3
 """6-sum_mixed_list.py
 """
 def sum_mixed_list(mxd_lst: list) -> float:

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!usr/bin/python3
 """9-element_length.py
 """
 def element_length(lst: list) -> list:
